@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 😃 Welcome to my git profile, i hope you find what you're looking for 
 
 <!--
 **JulioSchendroski/JulioSchendroski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
