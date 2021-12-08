@@ -20,7 +20,7 @@
 
 ##
   
-  ## Check out my social medias and contact me!
+  ## Check out my social medias!
   
 <div> 
   <a href="https://www.linkedin.com/in/julioschendroski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
