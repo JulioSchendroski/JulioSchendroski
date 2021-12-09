@@ -4,7 +4,7 @@
 
 <div align="left">
   <a href="https://github.com/JulioSchendroski">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioSchendroski&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioSchendroski&layout=compact&langs_count=7&theme=dark&hide=jupyter%20notebook"/>
   <img height="180em" src="https://spotify-github-profile.vercel.app/api/view?uid=12144790467&cover_image=true&theme=default"/>
 </div>
 <div align="left" style="display: inline_block"><br>
